@@ -1,0 +1,1490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.725383758544922,
+          -23.607805252075195
+        ]
+      },
+      "properties": {
+        "Name": "Pet Care",
+        "Street": "",
+        "City": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722850799560547,
+          -23.600622177124023
+        ]
+      },
+      "properties": {
+        "Name": "Ag_ncia Lwa3",
+        "Street": "\"Av. Giovanni Gronchi, 2099\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727729797363281,
+          -23.611244201660156
+        ]
+      },
+      "properties": {
+        "Name": "Academias Play Tennis",
+        "Street": "",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726688385009766,
+          -23.608938217163086
+        ]
+      },
+      "properties": {
+        "Name": "High Soccer",
+        "Street": "\"Av. Giovanni Gronchi, 3260 Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.730022430419922,
+          -23.600400924682617
+        ]
+      },
+      "properties": {
+        "Name": "Escola de Educa_?o Infantil Arca da Alian_a",
+        "Street": "\"Rua General Eldes de Sousa Guedes,55\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.728389739990234,
+          -23.604362487792969
+        ]
+      },
+      "properties": {
+        "Name": "Col_gio Santo Am_rico",
+        "Street": "\"Rua Santo Am_rico, 275 Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72918701171875,
+          -23.602882385253906
+        ]
+      },
+      "properties": {
+        "Name": "Lanna Nigro / Ad?o Ferreira Fotografia",
+        "Street": "\"Rua Alfredo lazzerini, 28\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726600646972656,
+          -23.616641998291016
+        ]
+      },
+      "properties": {
+        "Name": "AILA",
+        "Street": "\"Rua Pasquale Gallupi, 900- Jardim Paraisopolis-SP-Brazil\"",
+        "City": "Cotia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7252311706543,
+          -23.613759994506836
+        ]
+      },
+      "properties": {
+        "Name": "ONG Florescer",
+        "Street": "\"Rua Manoel Ant_nio Pinto, 500 - Parais_polis\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727489471435547,
+          -23.608219146728516
+        ]
+      },
+      "properties": {
+        "Name": "Jardim Colombo",
+        "Street": "rua das goiabeiras",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.724788665771484,
+          -23.602069854736328
+        ]
+      },
+      "properties": {
+        "Name": "Corpo & Design - Clin_ca de Est_tica e Emagrecimento",
+        "Street": "\"Av. Giovanni Gronchi, 2307 - Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.725532531738281,
+          -23.608123779296875
+        ]
+      },
+      "properties": {
+        "Name": "InsideGrill Salad",
+        "Street": "\"Rua Pasquale Gallupi, 39\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73565673828125,
+          -23.611595153808594
+        ]
+      },
+      "properties": {
+        "Name": "Portugu_s Interativo",
+        "Street": "\"Rua Professor Jos_ Hor?cio Meireles Teixeira , 538\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727760314941406,
+          -23.600950241088867
+        ]
+      },
+      "properties": {
+        "Name": "Studio Fausto Saez",
+        "Street": "\"Rua Franscisco Preto, 177 - cj 01 - Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722438812255859,
+          -23.603719711303711
+        ]
+      },
+      "properties": {
+        "Name": "Lucy - Consultora Natura/Botic?rio",
+        "Street": "Guarulhos",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727890014648438,
+          -23.611457824707031
+        ]
+      },
+      "properties": {
+        "Name": "Espa_o Prana",
+        "Street": "Shopping Jardim Sul ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.731803894042969,
+          -23.6025390625
+        ]
+      },
+      "properties": {
+        "Name": "BRECH? PONTA DA VILA",
+        "Street": "R.Dr.Silvio Dante  Bertacchi 1204",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.736225128173828,
+          -23.607524871826172
+        ]
+      },
+      "properties": {
+        "Name": "Reabilita Fisioterapia Especializada",
+        "Street": "Rua David Ben Gurion - 690 - Vila Suzana - Morumbi ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722850799560547,
+          -23.600622177124023
+        ]
+      },
+      "properties": {
+        "Name": "Cat_ Poli Paisagismo",
+        "Street": "\"Av. Giovanni Gronchi, 2727\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.725608825683594,
+          -23.61656379699707
+        ]
+      },
+      "properties": {
+        "Name": "Comunidade De Parais_polis",
+        "Street": "\"Rua Ernest Renan, 1366\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.728588104248047,
+          -23.616399765014648
+        ]
+      },
+      "properties": {
+        "Name": "Igreja Nossa Senhora da Penha",
+        "Street": "\"Rua melchior Giola, 970\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727581024169922,
+          -23.601350784301758
+        ]
+      },
+      "properties": {
+        "Name": "Lar Escola Cairbar Schutel",
+        "Street": "\"Rua Francisco Preto, 213 Vila Morse\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72760009765625,
+          -23.611040115356445
+        ]
+      },
+      "properties": {
+        "Name": "Play Fitness",
+        "Street": "\"Av. Giovanni Gronchi, 3399 Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.728389739990234,
+          -23.603010177612305
+        ]
+      },
+      "properties": {
+        "Name": "N?cleo de Mem_ria",
+        "Street": "\"Rua Santo Am_rico, 357 _ Portaria 3\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.735256195068359,
+          -23.608230590820313
+        ]
+      },
+      "properties": {
+        "Name": "C?ritas Santa Suzana",
+        "Street": "\"Rua David Ben Gurion,777\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.733070373535156,
+          -23.614889144897461
+        ]
+      },
+      "properties": {
+        "Name": "Spazio Garden Eventos",
+        "Street": "\"Rua Joaquim Lopes, 50\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.731246948242188,
+          -23.60173225402832
+        ]
+      },
+      "properties": {
+        "Name": "Marcos Antonio Gastronomia",
+        "Street": "\"Rua Jos_ Capobianco, 77\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726230621337891,
+          -23.614406585693359
+        ]
+      },
+      "properties": {
+        "Name": "Cl_nica Dente Vida",
+        "Street": "\"Rua Pasquale Gallupi, 649 \"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720920562744141,
+          -23.614200592041016
+        ]
+      },
+      "properties": {
+        "Name": "Goldenart",
+        "Street": "",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.731548309326172,
+          -23.599929809570313
+        ]
+      },
+      "properties": {
+        "Name": "Cemp- Centro De Movimento E Performance",
+        "Street": "\"RUA NILZA MEDEIROS MARTINS, 187 A\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723503112792969,
+          -23.6124210357666
+        ]
+      },
+      "properties": {
+        "Name": "Ravasq Estetic Hair",
+        "Street": "",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46724.0,
+          -23.608959197998047
+        ]
+      },
+      "properties": {
+        "Name": "Sandalias Personalizadas Marcia vitale",
+        "Street": "Rua Antonio Julio dos Santos 167",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73455810546875,
+          -23.604639053344727
+        ]
+      },
+      "properties": {
+        "Name": "? Verdadeee FV",
+        "Street": "Av Jos_ Maria Da Silva Paranhos 61 ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727901458740234,
+          -23.608440399169922
+        ]
+      },
+      "properties": {
+        "Name": "Policourt Constru_?o de Quadras Esportivas",
+        "Street": "\"rua: Agem_si,164 - 14? Andar\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723777770996094,
+          -23.602869033813477
+        ]
+      },
+      "properties": {
+        "Name": "Strixio - Tarja Editorial",
+        "Street": "\"Rua Dr. Cristiano de Sousa, 115\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720779418945313,
+          -23.614288330078125
+        ]
+      },
+      "properties": {
+        "Name": "Aluguel de Carros - Localcar Locadora",
+        "Street": "Rua albuquerque lins 537",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.728424072265625,
+          -23.614191055297852
+        ]
+      },
+      "properties": {
+        "Name": "Petshop Rosibill",
+        "Street": "\"R: Piracicaba, 310\"",
+        "City": "Itaquaquicetuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727710723876953,
+          -23.600437164306641
+        ]
+      },
+      "properties": {
+        "Name": "Escola Soletrar",
+        "Street": "Rua Francisco Preto 131",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720623016357422,
+          -23.612667083740234
+        ]
+      },
+      "properties": {
+        "Name": "NIELY HAIR",
+        "Street": "rua lindolfo klauber n/79 Jardim esperan_a antiga rua 14",
+        "City": "Guaratinguet?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7241096496582,
+          -23.60694694519043
+        ]
+      },
+      "properties": {
+        "Name": "Colegio Evolve",
+        "Street": "\"Rua Clementine Brenne, 385\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7197380065918,
+          -23.600931167602539
+        ]
+      },
+      "properties": {
+        "Name": "S?o Paulo Futebol Clube - S.P.F.C.",
+        "Street": "\"Pra_a Roberto Gomes Pedrosa, 1\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720005035400391,
+          -23.599790573120117
+        ]
+      },
+      "properties": {
+        "Name": "Est?dio do Morumbi",
+        "Street": "\"P_a Roberto Gomes Pedrosa, 1 - Port?o 2\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7192268371582,
+          -23.600969314575195
+        ]
+      },
+      "properties": {
+        "Name": "Restaurante Copa | Gastronomia e Futebol",
+        "Street": "\"Port?o 5, Est?dio do Morumbi: Pra_a Roberto Gomes Pedrosa, 1 - Vila S_nia\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72003173828125,
+          -23.600128173828125
+        ]
+      },
+      "properties": {
+        "Name": "Tricolor do Morumbi",
+        "Street": "",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.721149444580078,
+          -23.599906921386719
+        ]
+      },
+      "properties": {
+        "Name": "Futsal S?o Paulo Futebol Clube",
+        "Street": " Pra_a Roberto Gomes Pedrosa ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.718399047851563,
+          -23.601139068603516
+        ]
+      },
+      "properties": {
+        "Name": "Morumbi Hostel",
+        "Street": "\"Av. Padre Lebret, 822\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.719287872314453,
+          -23.600542068481445
+        ]
+      },
+      "properties": {
+        "Name": "Stadium Retr_ Night - Camarote Stadium do Morumbi",
+        "Street": "",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720317840576172,
+          -23.6142578125
+        ]
+      },
+      "properties": {
+        "Name": "Proloja Vale",
+        "Street": "\"Rua Albuquerque Lins, Numero 138, sala 10\"",
+        "City": "Pindamonhangaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720005035400391,
+          -23.615373611450195
+        ]
+      },
+      "properties": {
+        "Name": "GCA  Academia",
+        "Street": "\"Rua, Rudolf Lotze, 19\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726619720458984,
+          -23.609094619750977
+        ]
+      },
+      "properties": {
+        "Name": "high soccer",
+        "Street": "\"av.giovanni gronchi,3260\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723201751708984,
+          -23.608980178833008
+        ]
+      },
+      "properties": {
+        "Name": "Condom_nio Edificio Fazenda do Morumby",
+        "Street": "Rua Antonio Julio dos Santos 78",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.724044799804688,
+          -23.616739273071289
+        ]
+      },
+      "properties": {
+        "Name": "Da Fonseca Modas (Gisele Presentes)",
+        "Street": "Rua: Melchior Giola n?176",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.727645874023438,
+          -23.600879669189453
+        ]
+      },
+      "properties": {
+        "Name": "FirstOne",
+        "Street": "\"R. Francisco Preto, 177 - Conj 03\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.720424652099609,
+          -23.600200653076172
+        ]
+      },
+      "properties": {
+        "Name": "SAO Paulo Torcedor",
+        "Street": "\"Av. Jules Rimet, 22-186 - Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.715267181396484,
+          -23.613859176635742
+        ]
+      },
+      "properties": {
+        "Name": "Floricultura Almeida Flores Morumbi",
+        "Street": "\"Rua Doutor Fl?vio Am_rico Maurano, 157\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.721824645996094,
+          -23.616155624389648
+        ]
+      },
+      "properties": {
+        "Name": "Paz e Vida Minist_rio Zona Sul",
+        "Street": "\"Rua: Herbert Spencer, 189\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.712032318115234,
+          -23.601570129394531
+        ]
+      },
+      "properties": {
+        "Name": "Governo do Estado de S?o Paulo",
+        "Street": "\"Avenida Morumbi, 4500\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.710536956787109,
+          -23.602287292480469
+        ]
+      },
+      "properties": {
+        "Name": "Funda_?o Maria Luisa e Oscar Americano",
+        "Street": "\"Av. Morumbi, 4077\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.710311889648438,
+          -23.612737655639648
+        ]
+      },
+      "properties": {
+        "Name": "Stilus Moda Feminina Masculina e Infantil",
+        "Street": "Rua Itoror_ 106 - Centro",
+        "City": "Santos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.708431243896484,
+          -23.607339859008789
+        ]
+      },
+      "properties": {
+        "Name": "By RB",
+        "Street": "\"Rua Adalivia de Toledo, 174- Paineras do Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.709823608398438,
+          -23.613174438476563
+        ]
+      },
+      "properties": {
+        "Name": "Zig-Zag Bordados",
+        "Street": "\"Rua Itoror_,47\"",
+        "City": "Santos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.709636688232422,
+          -23.613260269165039
+        ]
+      },
+      "properties": {
+        "Name": "Impressos R?pidos",
+        "Street": "\"Rua Itoror_, 13 - Centro\"",
+        "City": "Santos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.710979461669922,
+          -23.612478256225586
+        ]
+      },
+      "properties": {
+        "Name": "The Pilates Studio Brasil Athentic Pilates Unidade Indaiatuba",
+        "Street": "\"Rua Itoror_, 305 - Cidade Nova\"",
+        "City": "Indaiatuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.708221435546875,
+          -23.611040115356445
+        ]
+      },
+      "properties": {
+        "Name": "Projeto Corpo CENTRO DE EST?TICA",
+        "Street": "Av. Bar?o de campos Gerais 763 Real Parque (Morumbi).",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.715431213378906,
+          -23.599369049072266
+        ]
+      },
+      "properties": {
+        "Name": "Prof. Dr. Nelson Wolosker",
+        "Street": "\"Av. Albert Einstein, 627\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.713962554931641,
+          -23.613336563110352
+        ]
+      },
+      "properties": {
+        "Name": "ABACH - Academia Brasileira de Arte Cultura e Hist_ria",
+        "Street": "\"Av. Morumbi, 5594\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706611633300781,
+          -23.607879638671875
+        ]
+      },
+      "properties": {
+        "Name": "JOIN CONTENT",
+        "Street": "\"Rua Visconde de Nacar, 185 - Cj 131 - Real Parque\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.708641052246094,
+          -23.615470886230469
+        ]
+      },
+      "properties": {
+        "Name": "Arena Universit?ria",
+        "Street": "\"R. Vicente G_es e Aranha, 635\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706298828125,
+          -23.604970932006836
+        ]
+      },
+      "properties": {
+        "Name": "Col_gio G?vea",
+        "Street": "\"Rua S?o Paulo Antigo, 101\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.704021453857422,
+          -23.608680725097656
+        ]
+      },
+      "properties": {
+        "Name": "RML Imoveis",
+        "Street": "Rua Duquesa de Goias ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.708690643310547,
+          -23.599739074707031
+        ]
+      },
+      "properties": {
+        "Name": "Cl_nica Sainte Marie",
+        "Street": "\"Avenida Morumbi, 3941\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7039680480957,
+          -23.608774185180664
+        ]
+      },
+      "properties": {
+        "Name": "SOS na Real",
+        "Street": "\"Rua Conde de Itagua_ 454 _ Bairro: Real Parque, 05686-030 S?o Paulo, Brazil\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7062873840332,
+          -23.61155891418457
+        ]
+      },
+      "properties": {
+        "Name": "A Pizzaria Gourmet - Lunch and Diner",
+        "Street": "\"Rua Am_rico Alves Pereira Filho,461   Real Park\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7039680480957,
+          -23.608774185180664
+        ]
+      },
+      "properties": {
+        "Name": "SOS Juventude",
+        "Street": "Rua Conde de Itagua_ 454 _ Bairro: Real Parque ",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7026481628418,
+          -23.608482360839844
+        ]
+      },
+      "properties": {
+        "Name": "Centro Comunit?rio Ludovico Pavoni - CCLP",
+        "Street": "\"Rua Bar?o de Castro Lima, 479\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706649780273438,
+          -23.604015350341797
+        ]
+      },
+      "properties": {
+        "Name": "Pipas E Aeromodelos",
+        "Street": "RUA MARGARIDA GALVAO 441",
+        "City": "Carapicu_ba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706192016601563,
+          -23.608098983764648
+        ]
+      },
+      "properties": {
+        "Name": "Cot_ Owlet",
+        "Street": "Av. Bar?o de Campos Gerais n?364",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706611633300781,
+          -23.608114242553711
+        ]
+      },
+      "properties": {
+        "Name": "Pet Life",
+        "Street": "Rua Visconde de Nacar 147 - Real Parque",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.704208374023438,
+          -23.607986450195313
+        ]
+      },
+      "properties": {
+        "Name": "Emp_rio Real Pet Shop",
+        "Street": "\"Avenida Duquesa de Goias, 63, Real Parque\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.706596374511719,
+          -23.604133605957031
+        ]
+      },
+      "properties": {
+        "Name": "IEAD Cidade Ariston Setor de Miss?es",
+        "Street": "\"Rua Margarida Galv?o, n? 574\"",
+        "City": "Carapicu_ba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.700778961181641,
+          -23.610044479370117
+        ]
+      },
+      "properties": {
+        "Name": "Pobre Juan",
+        "Street": "",
+        "City": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702667236328125,
+          -23.613700866699219
+        ]
+      },
+      "properties": {
+        "Name": "Ag_nciaClick Isobar",
+        "Street": "\"Av. Duquesa de Goi?s, 716\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702541351318359,
+          -23.614099502563477
+        ]
+      },
+      "properties": {
+        "Name": "Audax S?o Paulo Esporte Clube",
+        "Street": "\"Av. Duquesa de Goias, 571 - Real Parque - Morumbi\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.697780609130859,
+          -23.6086368560791
+        ]
+      },
+      "properties": {
+        "Name": "R?dio Disney",
+        "Street": "\"Av. das Na_?es Unidas, 12.551 - 11o. andar\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702896118164063,
+          -23.613557815551758
+        ]
+      },
+      "properties": {
+        "Name": "age.",
+        "Street": "\"Av. Duquesa de G_ias, 716\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702457427978516,
+          -23.611129760742188
+        ]
+      },
+      "properties": {
+        "Name": "Decathlon Ca_a Talentos",
+        "Street": "Duquesa de Goias 381",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6977653503418,
+          -23.608249664306641
+        ]
+      },
+      "properties": {
+        "Name": "B.I. International",
+        "Street": "Endere_o",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.704254150390625,
+          -23.615406036376953
+        ]
+      },
+      "properties": {
+        "Name": "Ag_ncia de Formaturas",
+        "Street": "\"R. Lu_s Gonzaga de Azevedo Neto, 223\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.700839996337891,
+          -23.612527847290039
+        ]
+      },
+      "properties": {
+        "Name": "Shopper Experience  -  Cliente Secreto",
+        "Street": "Av Major Silvio de Magalh?es Padilha 5200 - 7? andar",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.701328277587891,
+          -23.608619689941406
+        ]
+      },
+      "properties": {
+        "Name": "Cidad?o Pr_-Mundo",
+        "Street": "\"Rua Paulo Bourrol, 100\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.703105926513672,
+          -23.614614486694336
+        ]
+      },
+      "properties": {
+        "Name": "Zanthus Automa_?o",
+        "Street": "\"Rua George Eastman, 64\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.713962554931641,
+          -23.613336563110352
+        ]
+      },
+      "properties": {
+        "Name": "Florentis",
+        "Street": "\"av. morumbi, 5594\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7028923034668,
+          -23.610994338989258
+        ]
+      },
+      "properties": {
+        "Name": "Decathlon Morumbi",
+        "Street": "\"Rua Duquesa de Goi?s, 381, Real Parque\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.704559326171875,
+          -23.615514755249023
+        ]
+      },
+      "properties": {
+        "Name": "Golden Plaza Chinese Restaurant (____)",
+        "Street": "R. Lu_s Gonzaga de Azevedo Neto 263",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.705055236816406,
+          -23.616403579711914
+        ]
+      },
+      "properties": {
+        "Name": "Bhupal",
+        "Street": "av Doutor Alberto de Oliveira Lima",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.708648681640625,
+          -23.599159240722656
+        ]
+      },
+      "properties": {
+        "Name": "Face&Hair",
+        "Street": "\"Av. Giovanni Gronchi, 2.999\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.697650909423828,
+          -23.608400344848633
+        ]
+      },
+      "properties": {
+        "Name": "3F Propaganda",
+        "Street": "\"Av Na_?es Unidas, 12.551 - 17? andar - Brooklin\"",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702762603759766,
+          -23.612306594848633
+        ]
+      },
+      "properties": {
+        "Name": "Pilates Start Fitness",
+        "Street": "avenida duquesa de goi?s 540 - real parque",
+        "City": "S?o Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.703231811523438,
+          -23.612335205078125
+        ]
+      },
+      "properties": {
+        "Name": "Academia Start Fitness",
+        "Street": "\"av Duquesa de Goias, 540 - Real Parque -  CEP: 05686-000\"",
+        "City": "S?o Paulo"
+      }
+    }
+  ]
+}
